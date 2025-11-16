@@ -13,11 +13,12 @@ Aspiring engineer passionate about technology and programming. Interested in web
 
 ## 🛠️ Skills & Technologies
 
-- **Programming:** Python
-- **Web Development:** HTML, CSS, JavaScript (JS)
-- **Database:** SQL
-- **Data Analysis:** Python (Pandas, NumPy, etc.)
-
+- **Programming Languages** Python. 
+- **Libraries** NumPy, Pandas, Matplotlib, Seaborn. 
+- **Web Development** HTML, CSS, JavaScript. 
+- **Data Analysis Tools** Power BI, Tableau, Excel. 
+- **Workflow Automation** n8n 
+- **Database** MySQL. 
 ---
 
 ## 🌱 Open Source Contributions
