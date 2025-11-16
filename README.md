@@ -13,8 +13,8 @@ Aspiring engineer passionate about technology and programming. Interested in web
 
 ## 🛠️ Skills & Technologies
 
-- **Programming:** Python, JavaScript (JS)
-- **Web Development:** HTML, CSS
+- **Programming:** Python
+- **Web Development:** HTML, CSS, JavaScript (JS)
 - **Database:** SQL
 - **Data Analysis:** Python (Pandas, NumPy, etc.)
 
