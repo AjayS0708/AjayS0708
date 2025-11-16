@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ajay S!
 
 **Engineering Student** at CMR Institute of Technology, Bangalore  
-🌐 [GitHub Profile](https://github.com/AjayS0708)
+
 
 ---
 
@@ -11,15 +11,6 @@ Aspiring engineer passionate about technology and programming. Interested in web
 
 ---
 
-## 🛠️ Skills & Technologies
-
-- **Programming Languages** Python. 
-- **Libraries** NumPy, Pandas, Matplotlib, Seaborn. 
-- **Web Development** HTML, CSS, JavaScript. 
-- **Data Analysis Tools** Power BI, Tableau, Excel. 
-- **Workflow Automation** n8n 
-- **Database** MySQL. 
----
 
 ## 🌱 Open Source Contributions
 
