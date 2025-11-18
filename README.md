@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Ajay+S!;Full-Stack+Developer;AI%2FML+Enthusiast;Love+Building+Projects;Open+Source+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Ajay+S!;Full-Stack+Developer;Data Analyst;AI%2FML+Enthusiast;Love+Building+Projects;Open+Source+Explorer" />
 </p>
 
 ---
@@ -64,15 +64,6 @@
 
 ---
 
-## 📌 Featured Project
-<p align="center">
-  <a href="https://github.com/AjayS0708/lib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjayS0708&repo=lib&theme=radical"/>
-  </a>
-</p>
-
----
-
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayS0708&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -80,13 +71,5 @@
 
 ---
 
-## 🪪 Holopin Badges
-<p align="center">
-  <a href="https://holopin.io/@ajays0708">
-    <img src="https://holopin.me/ajays0708" />
-  </a>
-</p>
-
----
 
 <p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
