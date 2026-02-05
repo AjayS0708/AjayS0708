@@ -11,7 +11,6 @@
 ## 🚀 About Me  
 - 💡 Passionate about **Web Development, AI, Automation, Databases & Data Analysis**
 - 🎓 Engineering Student  
-
 - 🔭 Love building **real-world projects** and exploring new technologies  
 - 📫 Reach me at: **ajaysriram070804@gmail.com**  
 
@@ -29,41 +28,45 @@
 
 ---
 
-## 📈 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayS0708&show_icons=true&theme=tokyonight&hide=stars" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AjayS0708&theme=tokyonight" height="165" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayS0708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AjayS0708&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayS0708&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
-## 🔥 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayS0708&layout=compact&theme=tokyonight" height="165"/>
-</p>
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AjayS0708&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AjayS0708&theme=tokyonight&margin-w=10&no-frame=true"/>
-</p>
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayS0708&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
 
 ---
-
-## ⚡ Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjayS0708&theme=react-dark" />
-</p>
-
----
-
 
 ## 👀 Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjayS0708&label=Profile+Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AjayS0708&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-<p align="center">⭐ If you like my work, consider starring a repository!</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
