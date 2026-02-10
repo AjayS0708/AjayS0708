@@ -41,6 +41,11 @@
        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AjayS0708&theme=github_dark" />
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AjayS0708&theme=github-dark-blue&hide_border=true" />
+</p>
+
+
 <!-- ================= ACHIEVEMENTS ================= -->
 
 <h2>Achievements</h2>
@@ -50,6 +55,7 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" />
 </p>
+
 
 <!-- ================= SKILLS ================= -->
 
