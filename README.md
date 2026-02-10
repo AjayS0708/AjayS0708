@@ -1,71 +1,102 @@
-<h1 align="center">Hi 👋, I'm Ajay S</h1>
-<h3 align="center">Web Developer • Data Analyst • AI/ML Enthusiast</h3>
+<h1 align="center">
+  Hello!!! Ajay here 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Analyst;AI%2FML+Enthusiast;Tech+Explorer;Love+Building+Projects;Open+Source+Contributor" />
+<p align="center"> 
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="Ajay LinkedIn" height="20" width="90"/>
+  </a>
+  <a href="https://github.com/AjayS0708"> 
+    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&logoColor=white&label=%20"
+         alt="Ajay GitHub" height="20" width="80"/>  
+  </a>
 </p>
 
----
+<!-- ================= ABOUT ME ================= -->
 
-## 🚀 About Me  
-- 💡 Passionate about **Web Development, AI, Automation, Databases & Data Analysis**
-- 🎓 Engineering Student  
-- 🔭 Love building **real-world projects** and exploring new technologies  
-- 📫 Reach me at: **ajaysriram070804@gmail.com**  
+<h2>👨‍💻 About Me</h2>
 
----
+<ul>
+  <li>🎓 Engineering student</li>
+  <li>💻 Interested in <strong>Web Development, Data Analytics & AI</strong></li>
+  <li>🔭 Love building <strong>real-world, practical projects</strong></li>
+  <li>🌱 Currently strengthening <strong>Python, JavaScript & Databases</strong></li>
+  <li>📫 Email: <strong>ajaysriram070804@gmail.com</strong></li>
+</ul>
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AjayS0708&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+<!-- ================= STATS ================= -->
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayS0708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AjayS0708&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayS0708&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AjayS0708&theme=github_dark" />
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AjayS0708&theme=github_dark" />
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AjayS0708&theme=github_dark" />
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AjayS0708&theme=github_dark"/>
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AjayS0708&theme=github_dark" />
 </div>
 
----
+<!-- ================= ACHIEVEMENTS ================= -->
 
+<h2>Achievements</h2>
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayS0708&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
-
----
-
-## 👀 Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjayS0708&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" />
 </p>
 
----
+<!-- ================= SKILLS ================= -->
+
+<h3>Languages, Tools and Technologies 🚀</h3>
+
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img height="40"
+           src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img height="40"
+           src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img height="40"
+           src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark">
+    </td>
+  </tr>
+</table>
+
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" height="40" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AjayS0708" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+         alt="GitHub" height="40" width="40"/>
+  </a>
+</p>
+
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
