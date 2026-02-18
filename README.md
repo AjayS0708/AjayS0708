@@ -85,21 +85,7 @@
   </tr>
 </table>
 
-<!-- ================= CONNECT ================= -->
 
-<h2 align="center">Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" height="40" width="40"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AjayS0708" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-         alt="GitHub" height="40" width="40"/>
-  </a>
-</p>
 
 <!-- ================= FOOTER ================= -->
 
