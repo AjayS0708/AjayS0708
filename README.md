@@ -22,7 +22,7 @@
   <li>🎓 Engineering student</li>
   <li>💻 Interested in <strong>Web Development, Data Analytics & AI</strong></li>
   <li>🔭 Love building <strong>real-world, practical projects</strong></li>
-  <li>🌱 Currently strengthening <strong>Python, JavaScript & Databases</strong></li>
+  <li>🌱 Currently strengthening <strong>Python, Databases</strong></li>
   <li>📫 Email: <strong>ajaysriram070804@gmail.com</strong></li>
 </ul>
 
