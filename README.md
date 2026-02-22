@@ -66,7 +66,7 @@
     <td><strong>Programming Languages</strong></td>
     <td>
       <img height="40"
-           src="https://skillicons.dev/icons?i=python,java&theme=dark">
+           src="https://skillicons.dev/icons?i=python&theme=dark">
     </td>
   </tr>
   <tr>
