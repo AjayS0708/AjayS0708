@@ -19,7 +19,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>🎓 Engineering student</li>
+  <li>🎓 Engineering student at <strong>CMR Institute of Technology</strong></li>
   <li>💻 Interested in <strong>Web Development, Data Analytics & AI</strong></li>
   <li>🔭 Love building <strong>real-world, practical projects</strong></li>
   <li>🌱 Currently strengthening <strong>Python, Databases</strong></li>
