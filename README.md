@@ -20,7 +20,7 @@
 
 <ul>
   <li>🎓 Engineering student at <strong>CMR Institute of Technology</strong></li>
-  <li>💻 Interested in <strong>Web Development, Data Analytics & AI</strong></li>
+  <li>💻 Interested in <strong>Web Development, Data Science , Data Analytics & AI</strong></li>
   <li>🔭 Love building <strong>real-world, practical projects</strong></li>
   <li>🌱 Currently strengthening <strong>Python, Databases</strong></li>
   <li>📫 Email: <strong>ajaysriram070804@gmail.com</strong></li>
